@@ -1,9 +1,9 @@
 Login Details For User :
-Username: anuj.lpu1@gmail.com
-Password : Test@123
+Username: nwmin30@gmail.com
+Password : 111111
 For Admin :
 User Name: admin
-Password: Test@123
+Password: 111111
 
 
 
